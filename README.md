@@ -36,3 +36,7 @@ Teenagers and adults learning to drive
 🔒 Disclaimer
 This app is for educational purposes only. Always follow your local traffic laws and consult your local driving authority for official testing and certification.
 
+## 📝 License
+
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.  
+You may use it for personal, non-commercial purposes only.
